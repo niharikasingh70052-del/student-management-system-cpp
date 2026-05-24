@@ -10,27 +10,41 @@ Data Structure learners
 C++ beginners
 Academic practical projects
 
+Working of the Project
+The program starts with a main menu where the user chooses:
+1.Singly Linked List
+3.Doubly Linked List
+4.Exit
+
+🔷Advantages of the Project
+Efficient memory usage
+Dynamic data storage
+Fast insertion and deletion
+Better understanding of linked lists
+Real-world implementation of data structures
+
 🚀Features 
 
-Singly Linked List Operations
-Insert at beginning
-Insert at end
-Insert at given position
-Delete from beginning
-Delete from end
-Delete from given position
-Traverse linked list
-Search student 
-Count nodes
+Singly Linked List Operations:
+🔸Insert at beginning
+🔸Insert at end
+🔸Insert at given position
+🔸Delete from beginning
+🔸Delete from end
+🔸Delete from given position
+🔸Traverse linked list
+🔸Search student 
+🔸Count nodes
 
-Doubly Linked List Operations
-Forward traversal
-Backward traversal
-Insert operations
-Delete operations
-Search operations
+☑️Doubly Linked List Operations
+🔹Forward traversal
+🔹Backward traversal
+🔹Insert operations
+🔹Delete operations
+🔹Search operations
 
-🧠Technologies Used
+🧠Technologies Used:
+
 Programming Language: C++
 Concepts Used:
 Classes & Objects
