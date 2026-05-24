@@ -11,6 +11,17 @@ Data Structure learners
 C++ beginners
 Academic practical projects
 
+🔷Main Objective
+The main objective of this project is to:
+Understand the implementation of linked lists in C++
+
+Perform dynamic memory management
+
+Compare Singly and Doubly Linked Lists
+
+Manage student records efficiently
+
+
 Working of the Project
 The program starts with a main menu where the user chooses:
 1.Singly Linked List
