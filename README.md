@@ -11,16 +11,25 @@ Data Structure learners
 C++ beginners
 Academic practical projects
 
+🎯Why This Project Was Made
+This project was made to manage student records efficiently using Linked List Data Structures in C++.
+It helps in performing operations like
+
+▫️Insert student records
+▫️Delete student records
+▫️Search student details
+▫️Traverse/display records
+▫️Count total students
+
 🔷Main Objective
 The main objective of this project is to:
-Understand the implementation of linked lists in C++
+1.Understand the implementation of linked lists in C++
 
-Perform dynamic memory management
+2.Perform dynamic memory management
 
-Compare Singly and Doubly Linked Lists
+3.Compare Singly and Doubly Linked Lists
 
-Manage student records efficiently
-
+4.Manage student records efficiently.
 
 Working of the Project
 The program starts with a main menu where the user chooses:
