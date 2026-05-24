@@ -1,6 +1,7 @@
 # student-management-system-cpp
 A C++ Student Management System using Singly and Doubly Linked Lists with insertion, deletion, traversal, search, and node management operations.
 📌Project discription 
+
 This project is useful for:
 
 BCA Students
@@ -10,6 +11,7 @@ C++ beginners
 Academic practical projects
 
 🚀Features 
+
 Singly Linked List Operations
 Insert at beginning
 Insert at end
@@ -21,11 +23,23 @@ Traverse linked list
 Search student 
 Count nodes
 
-*Doubly Linked List Operations
+Doubly Linked List Operations
 Forward traversal
 Backward traversal
 Insert operations
 Delete operations
 Search operations
+
+🧠Technologies Used
+Programming Language: C++
+Concepts Used:
+Classes & Objects
+Dynamic Memory Allocation
+Pointers
+Linked Lists
+Menu Driven Programming
+Data Structures
+
+
 
 
